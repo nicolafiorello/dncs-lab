@@ -78,7 +78,9 @@ The network was splitted in 4 subnets:
 -**A**: it contains host-1-a and eth.11, the router-1 port.  [Vlan based]
 
 -**B**: it contains host-1-b and eth.12, the router-1 port.  [Vlan based]  
+
 -**C**: it contains host-2-c and eth1, the router-2 port.  
+
 -**D**: it contains eth2 port, the one shared by routers.
 
 ## Ip address
